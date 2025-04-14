@@ -19,7 +19,7 @@ Put this into your `claude_desktop_config.json` (either at `~/Library/Applicatio
 
 ### Example prompts
 
-> Hey Claude, install the MCP server named mcp-server-fetch
+> Hey Claude, install the MCP server named mcp-server-fetch </br>
 > Hey Claude, install the @modelcontextprotocol/server-filesystem package as an MCP server. Use ['/Users/yodablocks/Desktop'] for the arguments
 > Hi Claude, please install the MCP server at /Users/anibetts/code/mcp-youtube, I'm too lazy to do it myself.
 > Install the server @modelcontextprotocol/server-github. Set the environment variable GITHUB_PERSONAL_ACCESS_TOKEN to '1234567890'
